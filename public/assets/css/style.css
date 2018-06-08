@@ -1,4 +1,23 @@
-ul {
+ul
+{
     list-style-type: none;
+    width:500px;
+    padding: 0;
+    /* padding:15px; */
+    background: beige;
+}
+li
+{
+    display : block;
+    padding:8px;
+    margin-bottom:0.5px;
+    border : 1px solid maroon;
+}
 
-};
+button.eat-burger {
+    float: right;
+}
+
+#button {
+     /* margin-left: 3em; */
+}
